@@ -1,93 +1,102 @@
 {
   "main": {
-    "name": "Sonny Sangha",
-    "occupation": "ReactJS Developer && Instructor @CleverProgrammer",
-    "description": "Full Stack React Developer by Day, Founder && Freelancer by Night. #papaReact",
-    "image": "IG_Sonny.jpeg",
-    "bio": "My name is Sonny, I'm a Full Stack ReactJS Developer. Currently I'm working at Clever Programmer while also coaching ",
-    "contactmessage": "Get in touch with me to receive further details, get coached or anything else.",
-    "email": "sonny@cleverprogrammer.com",
-    "phone": "+44 12 345 6789",
+    "name": "Neetish Pathak",
+    "occupation": "Software Engineer",
+    "description": "Work on large scale systems by Day, full stack Dev by Night & Learner for Life.",
+    "image": "Neetish.jpeg",
+    "bio": "My name is Neetish, I'm a Software systems Engineer. Currently I'm working at PayPal in the Bay Area ",
+    "contactmessage": "Get in touch with me to receive further details.",
+    "email": "niits23@gmail.com",
+    "phone": "+919-760-9661",
     "address": {
-      "street": "123 Fake Street",
-      "city": "London",
-      "state": "UK",
-      "zip": "ABC 123"
+      "street": "460 Oak Grove Dr",
+      "city": "Santa Clara",
+      "state": "USA",
+      "zip": "95054"
     },
-    "website": "http://www.timbakerdev.com",
-    "resumedownload": "http://timbakerdev.com",
+    "website": "https://neetishpathak.github.io/",
+    "resumedownload": "https://drive.google.com/file/d/1154Q3o91JKA4B9rMGUqKpCkOQsUBfyyG/view",
     "social": [
       {
         "name": "facebook",
-        "url": "https://www.facebook.com/sonny.sangha.3",
+        "url": "https://www.facebook.com/neetish.pathak/",
         "className": "fa fa-facebook"
       },
       {
         "name": "linkedin",
-        "url": "https://www.linkedin.com/in/saajansangha/",
+        "url": "https://www.linkedin.com/in/neetish-pathak/",
         "className": "fa fa-linkedin"
       },
       {
         "name": "instagram",
-        "url": "https://www.instagram.com/ssssangha/",
+        "url": "https://www.instagram.com/neetishpathak/?hl=en",
         "className": "fa fa-instagram"
       },
       {
         "name": "github",
-        "url": "http://github.com/sonnysangha",
+        "url": "https://github.com/NeetishPathak",
         "className": "fa fa-github"
       }
     ]
   },
   "resume": {
-    "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
+    "skillmessage": "I am interested in computer systems and networks. Computer and network Security is another domain that excites me. I have an MS in Computer Networking from NCSU, USA and a BE in Electrical Engineering from BITS Pilani, India. I love to work on projects that involve systems understanding and analysis. Nothing motivates me better than solving Real life problems.",
     "education": [
       {
-        "school": "University of Kent",
-        "degree": "Masters in Advanced Computer Science",
-        "graduated": "January 2017",
+        "school": "North Carolina State University",
+        "degree": "Masters in Computer networking & Systems",
+        "graduated": "Dec 2017",
         "description": "Graduated with Distinction"
       }
     ],
     "work": [
       {
-        "company": "Clever Programmer",
-        "title": "Team Member && React Specialist",
-        "years": "April 2020 - Present",
-        "description": "Teaching ReactJS to thousands of students."
+        "company": "PayPal",
+        "title": "Software Engineer",
+        "years": "Feb 2018 - Present",
+        "description": "Large Scale Systems Engineering."
       },
       {
-        "company": "Lindar Media",
+        "company": "Harman International",
         "title": "Software Engineer",
-        "years": "Nov 2019 - April 2020",
-        "description": "Building MrQ, a gambling website."
+        "years": "Sep 2013 - July 2016",
+        "description": "Developing Infotainment Software for automotives."
       }
     ],
     "skills": [
       {
-        "name": "ReactJs",
+        "name": "Golang",
         "level": "100%"
       },
       {
+        "name": "Systems",
+        "level": "100%"
+      },
+      {
+        "name": "Linux/OS",
+        "level": "80%"
+      },
+      {
+        "name": "Networking",
+        "level": "80%"
+      },
+      {
+        "name": "ReactJS",
+        "level": "75%"
+      },
+      {
         "name": "CSS",
-        "level": "95%"
+        "level": "60%"
       },
       {
         "name": "Git",
         "level": "60%"
       },
       {
-        "name": "Figma && Adobe XD",
-        "level": "55%"
-      },
-      {
-        "name": "HTML5",
-        "level": "80%"
-      },
-      {
-        "name": "MongoDB",
-        "level": "80%"
+        "name": "Node",
+        "level": "60%"
       }
+      
     ]
   },
   "portfolio": {
@@ -95,44 +104,22 @@
       {
         "title": "MERN Stack WhatsApp Clone",
         "category": "WhatsApp Clone built with MERN (MongoDB, ExpressJS, ReactJS, NodeJS)",
-        "image": "whatsapp-mern.jpeg",
-        "url": "https://www.youtube.com/watch?v=gzdQDxzW2Tw"
+        "image": "whatapp.png",
+        "url": "https://github.com/NeetishPathak/whatsapp-clone"
       },
       {
-        "title": "MERN Stack TikTok Clone",
-        "category": "TikTok Clone built with MERN (MongoDB, ExpressJS, ReactJS, NodeJS)",
-        "image": "tiktok-mern.jpeg",
-        "url": "https://www.youtube.com/watch?v=g8yGxDMyGiE"
-      },
-      {
-        "title": "Facebook Clone with React",
-        "category": "Facebook Clone built with ReactJS",
-        "image": "facebook-clone.png",
-        "url": "https://www.youtube.com/watch?v=B-kxUMHBxNo"
-      },
-      {
-        "title": "Airbnb Clone",
-        "category": "Facebook Clone built with ReactJS",
-        "image": "airbnb-clone.jpeg",
-        "url": "https://www.youtube.com/watch?v=BtJeH_-XYaA"
-      },
-      {
-        "title": "Netflix Clone",
-        "category": "Facebook Clone built with ReactJS",
-        "image": "netflix-clone.jpeg",
-        "url": "https://www.youtube.com/watch?v=XtMThy8QKqU&t=9358s"
+        "title": "TLS Performance Analysis",
+        "category": "Comparison of TLS 1.3 & 1.2 full-handshake, resumption and early data with variable network latency, throughput and packet loss",
+        "image": "tls.png",
+        "url": "https://github.com/NeetishPathak/SSL_Resumption"
       }
     ]
   },
   "testimonials": {
     "testimonials": [
       {
-        "text": "Here you should write some nice things that someone has said about you. No lies though, employers can tell when you are lying.",
-        "user": "Kareem Abdul Jabbar"
-      },
-      {
-        "text": "That Sonny Sangha must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
-        "user": "Steve Wozniak... impersonator"
+        "text": "An asset to any organisation, Neetish is an extremely personable, dedicated, very professional in conduct and a team player to work with. He posses a never give up attitude and works to see success in all endeavors",
+        "user": "Sathish KS"
       }
     ]
   }
