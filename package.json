@@ -7,7 +7,7 @@
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
     "react-ga": "^3.1.2",
-    "react-scripts": "3.4.3"
+    "react-scripts": "^3.4.3"
   },
   "scripts": {
     "start": "react-scripts start",
@@ -26,5 +26,18 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  }
+  },
+  "description": "## 👇 WATCH THIS FIRST 👇 ## https://tinyurl.com/customizeReactPortfolio",
+  "main": "index.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NeetishPathak/react-portfolio.git"
+  },
+  "author": "Neetish",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NeetishPathak/react-portfolio/issues"
+  },
+  "homepage": "https://github.com/NeetishPathak/react-portfolio#readme"
 }
